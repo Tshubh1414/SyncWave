@@ -1,0 +1,5 @@
+PyQt6>=6.6
+numpy>=1.26
+pyaudiowpatch>=0.2.12.7
+pycaw>=20240210
+comtypes>=1.2.0
